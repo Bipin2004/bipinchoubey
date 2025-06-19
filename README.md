@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I’m a web developer and a computer science student passionate about building scalable applications. I enjoy turning complex problems into elegant, user-friendly solutions.
 
-- 🎓 3rd Year B.Tech @ KIIT University
+- 🎓 4th Year B.Tech @ KIIT University
 - 💡 Exploring: Real-time applications, microservices, and system design
 - ✨ Fun fact: I love working with JavaScript and solving algorithmic challenges!
 
